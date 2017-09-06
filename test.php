@@ -1,5 +1,5 @@
 <div class="scroll-menu teacher-user-guide">
-	<h4 class="panel-group-heading">Blackboard Mobile Student</h4>
+	<h4 class="panel-group-heading">Blackboard Mobile Student -Testing</h4>
 	<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
 		<div class="panel panel-default">
 			<div class="panel-heading" id="heading-Blackboard_Mobile_Student1" role="tab">
